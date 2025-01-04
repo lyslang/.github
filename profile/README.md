@@ -8,8 +8,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 <div align="center">
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lyslang/.github/blob/main/media/brand-light.png">
-    <img src="https://github.com/lyslang/.github/blob/main/media/brand-dark.png" alt="Lys" width="400">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyslang/.github/main/media/brand-dark.png">
+    <img src="https://raw.githubusercontent.com/lyslang/.github/main/media/brand-light.png" alt="Lys" width="400">
   </picture>
   <p align="center">
     <br />
