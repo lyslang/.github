@@ -19,22 +19,22 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Front end
 
-:white_check_mark: [Labelled Backus-Naur Form](https://bnfc.readthedocs.io/en/latest/lbnf.html)
-:white_check_mark: [Lexical analysis → Lexer](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
-:white_check_mark: [Syntactic analysis → Parser](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
-:hourglass_flowing_sand: [Semantic analysis](https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/14-Semantic-Analysis.pdf)
+- [x] [Labelled Backus-Naur Form](https://bnfc.readthedocs.io/en/latest/lbnf.html)
+- [x] [Lexical analysis → Lexer](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
+- [x] [Syntactic analysis → Parser](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
+- [ ] [Semantic analysis](https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/14-Semantic-Analysis.pdf) :hourglass_flowing_sand:
 
 ## Back end
 
-:x: [Interpreted](<https://en.wikipedia.org/wiki/Interpreter_(computing)>)
-:x: [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Machine Code](https://en.wikipedia.org/wiki/Machine_code)
-:x: [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Bytecode](https://en.wikipedia.org/wiki/Bytecode) → [VM](https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual_machines)
-:x: [LLVM](https://releases.llvm.org/12.0.0/docs/tutorial/OCamlLangImpl1.html)
-:hourglass_flowing_sand: [Transpiled](https://en.wikipedia.org/wiki/Source-to-source_compiler) to OCaml
+- [ ] [Interpreted](<https://en.wikipedia.org/wiki/Interpreter_(computing)>)
+- [ ] [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Machine Code](https://en.wikipedia.org/wiki/Machine_code)
+- [ ] [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Bytecode](https://en.wikipedia.org/wiki/Bytecode) → [VM](https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual_machines)
+- [ ] [LLVM](https://releases.llvm.org/12.0.0/docs/tutorial/OCamlLangImpl1.html)
+- [ ] [Transpiled](https://en.wikipedia.org/wiki/Source-to-source_compiler) to OCaml :hourglass_flowing_sand:
 
 ## Nice to have
 
-:white_check_mark: [Syntax highlighting](https://markdown-all-in-one.github.io/docs/contributing/textmate-language-grammar.html#references)
-:white_check_mark: [Formatter](https://yorickpeterse.com/articles/how-to-write-a-code-formatter/)
-:x: [LSP](https://microsoft.github.io/language-server-protocol/)
-:x: [Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide)
+- [x] [Syntax highlighting](https://markdown-all-in-one.github.io/docs/contributing/textmate-language-grammar.html#references)
+- [x] [Formatter](https://yorickpeterse.com/articles/how-to-write-a-code-formatter/)
+- [ ] [LSP](https://microsoft.github.io/language-server-protocol/)
+- [ ] [Semantic highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide)
