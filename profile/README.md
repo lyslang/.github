@@ -29,7 +29,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [ ] [Interpreted](<https://en.wikipedia.org/wiki/Interpreter_(computing)>)
 - [ ] [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Machine Code](https://en.wikipedia.org/wiki/Machine_code)
 - [ ] [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Bytecode](https://en.wikipedia.org/wiki/Bytecode) → [VM](https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual_machines)
-- [ ] [LLVM](https://releases.llvm.org/12.0.0/docs/tutorial/OCamlLangImpl1.html)
+- [ ] [LLVM](https://github.com/arbipher/llvm-ocaml-tutorial)
 - [ ] [Transpiled](https://en.wikipedia.org/wiki/Source-to-source_compiler) to OCaml :hourglass_flowing_sand:
 
 ## Nice to have
