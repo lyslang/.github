@@ -30,7 +30,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [ ] [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Machine Code](https://en.wikipedia.org/wiki/Machine_code)
 - [ ] [Compiled](https://en.wikipedia.org/wiki/Compiler) to [Bytecode](https://en.wikipedia.org/wiki/Bytecode) → [VM](https://en.wikipedia.org/wiki/Virtual_machine#Process_virtual_machines)
 - [ ] [LLVM](https://github.com/arbipher/llvm-ocaml-tutorial)
-- [ ] [Transpiled](https://en.wikipedia.org/wiki/Source-to-source_compiler) to OCaml :hourglass_flowing_sand:
+- [x] [Transpiled](https://en.wikipedia.org/wiki/Source-to-source_compiler) to OCaml
 
 ## Nice to have
 
