@@ -22,7 +22,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [x] [Labelled Backus-Naur Form](https://bnfc.readthedocs.io/en/latest/lbnf.html)
 - [x] [Lexical analysis → Lexer](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
 - [x] [Syntactic analysis → Parser](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
-- [ ] [Semantic analysis](https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/14-Semantic-Analysis.pdf) :hourglass_flowing_sand:
+- [x] [Semantic analysis](https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/14-Semantic-Analysis.pdf) :hourglass_flowing_sand:
+- [ ] Type checking
 
 ## Back end
 
