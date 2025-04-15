@@ -1,6 +1,5 @@
 <!--
 SPDX-FileCopyrightText: 2025 Aljebriq <143266740+aljebriq@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Łukasz Bartkiewicz <lukasku@proton.me>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
@@ -22,8 +21,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [x] [Labelled Backus-Naur Form](https://bnfc.readthedocs.io/en/latest/lbnf.html)
 - [x] [Lexical analysis → Lexer](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
 - [x] [Syntactic analysis → Parser](https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html)
-- [x] [Semantic analysis](https://suif.stanford.edu/dragonbook/lecture-notes/Stanford-CS143/14-Semantic-Analysis.pdf) :hourglass_flowing_sand:
-- [ ] Type checking
+- [ ] Analysis
 
 ## Back end
 
