@@ -22,7 +22,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [x] [Parsing](https://en.wikipedia.org/wiki/Parsing)
 - [ ] [Semantic analysis](<https://en.wikipedia.org/wiki/Semantic_analysis_(compilers)>)
   - [x] [Desugaring](https://en.wikipedia.org/wiki/Syntactic_sugar)
-  - [ ] Usage analysis
+  - [ ] Usage analysis :hourglass_flowing_sand:
   - [ ] [Type checking](https://en.wikipedia.org/wiki/Type_system#Type_checking)
 
 ## Back end
