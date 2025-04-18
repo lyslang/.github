@@ -21,9 +21,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [x] [Labelled Backus-Naur Form](https://bnfc.readthedocs.io/en/latest/lbnf.html)
 - [x] [Lexical tokenization](https://en.wikipedia.org/wiki/Lexical_analysis)
 - [x] [Parsing](https://en.wikipedia.org/wiki/Parsing)
-- [ ] Analysis
+- [ ] [Semantic analysis](<https://en.wikipedia.org/wiki/Semantic_analysis_(compilers)>)
   - [x] [Desugaring](https://en.wikipedia.org/wiki/Syntactic_sugar)
-  - [ ] [Semantic](<https://en.wikipedia.org/wiki/Semantic_analysis_(compilers)>)
+  - [ ] Usage analysis
   - [ ] [Type checking](https://en.wikipedia.org/wiki/Type_system#Type_checking)
 
 ## Back end
