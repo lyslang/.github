@@ -6,13 +6,10 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 <div align="center">
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyslang/.github/main/media/brand-dark.png">
-    <img src="https://raw.githubusercontent.com/lyslang/.github/main/media/brand-light.png" alt="Lys" width="400">
-  </picture>
+  <img src="https://raw.githubusercontent.com/lyxlang/.github/main/media/brand.png" alt="Lyx" width="400">
   <p align="center">
     <br />
-    The Lys purely functional programming language.
+    The Lyx purely functional programming language.
   </p>
 </div>
 
